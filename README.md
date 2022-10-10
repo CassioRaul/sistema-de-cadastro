@@ -4,5 +4,5 @@
 Para rodar esse projetp na sua máquina, por favor digite:
 
 ```
-rpm installl react
+node app.js
 ```
